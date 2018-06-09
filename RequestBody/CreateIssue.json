@@ -1,0 +1,15 @@
+{
+	"fields":{
+		"project":{
+			"key":"RES"
+		},
+		"summary": "Debit Card defect Java",
+		"description": "Creating my bug using REST Assured",
+		"issuetype":{
+			"name":"Bug"
+		}
+	}
+	
+	
+	
+}
